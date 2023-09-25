@@ -12,5 +12,5 @@
 * <Servo.h>
 
 ## Directories & Files
-* document: 개발 관련 기록 문서
+* document: 개발 관련 문서
 * source_code: 프로그램 소스코드
